@@ -29,7 +29,7 @@
 </li><br>
 
 <h2> Parameter Tables</h2>
-![image](readme_img.png)
+![image!](readme_img.png)
 
 <br>
 <p> The weights of the final model are present in 'rnn_wieght_torch-3.pth' file</p>
